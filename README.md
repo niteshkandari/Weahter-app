@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 Here's a link to the web app- https://weather-app-88d6c.web.app/
 the web app is particularly designed for mobile app using react-js and hosted using firebase but thats been said it still can be open in desktop.
 
