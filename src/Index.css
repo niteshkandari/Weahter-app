@@ -1,0 +1,33 @@
+.sunny {
+  background-image: url('./images/warm-bg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div ::placeholder {
+  color: white;
+}
+
+.moon {
+  background-image: url('./images/moon.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.box {
+  padding: 4%;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.2);
+  box-shadow: 3px 1px 12px 20px rgb(0, 0, 0, 0.3);
+}
+
+.circle {
+  height: 2em;
+  width: 2em;
+  padding: 2.8em;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.2);
+  box-shadow: 1px 1px 12px 12px rgb(0, 0, 0, 0.3);
+}
