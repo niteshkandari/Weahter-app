@@ -1,5 +1,5 @@
 Here's a link to the web app- https://weather-app-88d6c.web.app/
-the web app is particularly designed for mobile app using react-js and hosted using firebase but thats been said it still can be open in desktop.
+the web app is created using react-js and hosted using firebase.
 
 
 ![s1](https://user-images.githubusercontent.com/74185121/157092258-097a4d34-e4cb-40f1-b636-0e3f08d174c7.png)
